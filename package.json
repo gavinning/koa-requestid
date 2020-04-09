@@ -1,0 +1,27 @@
+{
+  "name": "@4a/koa-requestid",
+  "version": "1.0.0",
+  "description": "koa requestid, koa responseid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/koa-requestid.git"
+  },
+  "keywords": [
+    "koa",
+    "koa-requestid",
+    "koa-responseid"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/koa-requestid/issues"
+  },
+  "homepage": "https://github.com/gavinning/koa-requestid#readme",
+  "dependencies": {
+    "uuid": "^7.0.3"
+  }
+}
